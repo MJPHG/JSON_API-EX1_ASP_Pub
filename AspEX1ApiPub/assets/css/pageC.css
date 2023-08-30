@@ -1,0 +1,56 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.lif {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    /*width: 12%;*/
+    background-color: lightgrey;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.spe {
+    margin: 7px;
+}
+
+.btnf {
+    float: right;
+}
+
+.tbf {
+    width: 90%;
+}
+
+.topsp {
+    margin-top: 13px;
+}
+
+.wtxtf {
+    color: white;
+}
+
+.blktc {
+    color: black;
+}
+
+.nava {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: lightgrey;
+    color: green;
+}
+
+.cntxt
+{
+    /*text-align:center;*/
+    /*height:20px;*/
+    
+        
+}
